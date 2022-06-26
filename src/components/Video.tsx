@@ -65,7 +65,7 @@ export function Video(props: VideoProps) {
           </Player>
         </div>
       </div>
-      <div className="p-8 max-w[1100px] mx-auto">
+      <div className="p-8 max-w-[1100px] mx-auto">
         <div className="flex items-start gap-16">
           <div className="flex-1">
             <h1 className="text-2xl font-bold">{data.lesson.title}</h1>
